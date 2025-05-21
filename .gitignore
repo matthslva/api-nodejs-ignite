@@ -10,4 +10,4 @@ node_modules
 .env.test
 
 #Build
-dist
+/dist
